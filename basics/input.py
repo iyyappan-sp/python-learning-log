@@ -1,0 +1,5 @@
+a = eval(input("Enter A Value"))
+b = eval(input("Enter B Value"))
+print(type(a))
+print(type(b))
+print("Sum Of 2 No's",a+b)

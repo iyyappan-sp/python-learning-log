@@ -1,0 +1,7 @@
+age=input()
+print('Your Age Is',age)
+num1=int(input())
+num2=int(input())
+print(type(num1))
+print(type(num2))
+print('Sum Of 2 Nos',num1+num2)
