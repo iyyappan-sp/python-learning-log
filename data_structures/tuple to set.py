@@ -1,0 +1,5 @@
+t = (33,66,11,99,33,77,33)
+s = set(t)
+print(s)
+t = tuple(s)
+print(t)
